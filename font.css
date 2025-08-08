@@ -1,0 +1,8 @@
+@font-face { 
+    font-family: 'NanumSPRD2'; 
+    font-style: normal; 
+    font-weight: 100; 
+    src: url(https://github.com/dupeekr/fonts/NanumGothicSPRD2-Regular.woff2) format('woff2'), 
+    url(https://github.com/dupeekr/fonts/NanumGothicSPRD2-Regular.woff) format('woff'), 
+    url((https://github.com/dupeekr/fonts/NanumBarunGothicOTFYetHangul-Regular.otf) format('opentype'); 
+}
